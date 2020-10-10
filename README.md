@@ -1,0 +1,1 @@
+# pgdo_gitclass
