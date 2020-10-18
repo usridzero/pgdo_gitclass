@@ -1,0 +1,5 @@
+git tutorial
+
+
+git checkout branchname
+git checkout remotebranch
